@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset local
+tracebase/
+data/raw/
+data/processed/
+
+# Arquivos temporarios
+*.log
+*.tmp
